@@ -1,0 +1,4 @@
+package business.services.fundsTransfer;
+
+public class FundsTransferService {
+}

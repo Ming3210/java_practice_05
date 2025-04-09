@@ -1,0 +1,4 @@
+package business.dao.fundsTransfer;
+
+public class fundsTransferDAOImp {
+}

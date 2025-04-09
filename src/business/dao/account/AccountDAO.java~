@@ -1,0 +1,4 @@
+package business.dao.account;
+
+public interface AccountDAO {
+}
